@@ -25,6 +25,7 @@ A collections designs for improving workflow on your ShopBot CNC milling machine
 * Gives visual oversight of milling bits available
 * Designed to fit on top of [hat systems](https://github.com/fellesverkstedet/hat-systems) europallet based workshop furniture
 * Materials: Valchromat 19mm / 19mm HDF
+*documentation from [SIEMEN CUYPERS](http://www.siemencuypers.com/cnc-tool-station-a-hat-systems-add-on/)
 
 
 
